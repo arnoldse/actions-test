@@ -1,0 +1,22 @@
+type: object
+properties:
+  policyId:
+    type: string
+    description: Unique identifier for the policy
+    bmp_id: Unique identifier for the attribute
+    gbg_id: 123456
+  policyNumber:
+    type: string
+    description: Policy number
+  car:
+    type: string
+    description: a useless information
+    abs_tb_att: tb_abs_2
+  startDate:
+    type: string
+    format: date
+    description: Start date of the policy
+  endDate:
+    type: string
+    format: date
+    description: End date of the policy
