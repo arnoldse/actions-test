@@ -1,0 +1,8 @@
+allOf:
+  - $ref: './file1.yaml'
+  - type: object
+    properties:
+      Re/Co-InsurancePanel:
+        type: string
+        description: Re/Co-Insurance Panel - part of file2
+    # Additional properties specific to the extension of commercial policies
