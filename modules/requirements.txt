@@ -1,0 +1,5 @@
+pyyaml==5.4.1
+
+schema==0.7.5
+
+jsonref==1.1.0
