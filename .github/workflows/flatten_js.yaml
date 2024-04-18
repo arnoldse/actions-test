@@ -1,4 +1,4 @@
-name: Flatten Data Entity
+name: JS Flatten Data Entity
 
 on:
   workflow_dispatch:
